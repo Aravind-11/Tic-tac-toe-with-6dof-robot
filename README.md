@@ -12,7 +12,7 @@ the player's moves. The program utilizes computer vision techniques to detect th
 make moves by placing objects in front of the camera. Additionally, an AI-controlled cobot makes its moves on the
 board, creating a dynamic and interactive gaming experience.
 
-## 1. INTRODUCTION
+### 1. INTRODUCTION
 
 
 Tic Tac Toe, a timeless game of strategy, simplicity, and universal appeal, inspired us to explore
@@ -23,7 +23,7 @@ computer vision techniques, coupled with a robust AI algorithm, ensures that the
 engages in the gameplay, making moves that keep players on their toes. This article delves into the
 methodologies, technologies, and outcomes of this exciting project.
 
-## 2. METHOD
+### 2. METHOD
 
 In this project, the implementation comprises three main components: Object Detection, Cobot Control,
 and Game Logic. The Object Detection component, managed by the Object_detect class, utilizes OpenCV for
@@ -68,7 +68,7 @@ A crucial aspect of the project is how users interact with the game. This involv
 of the camera to make moves, with the cobot responding dynamically. Exploring the nuances of this human-
 computer interaction adds depth to the understanding of user experience design.
 
-## 3. RESULTS AND DISCUSSION
+### 3. RESULTS AND DISCUSSION
 
 The project seamlessly integrates computer vision, robotics, and AI to create an interactive Tic Tac Toe
 game. However, the journey was not without its challenges. In this section, we discuss the outcomes of the
@@ -124,7 +124,7 @@ while the project successfully integrates multiple technologies to create an int
 addressing these challenges opens avenues for further research and development. The intersection of
 computer vision, robotics, and AI continues to offer exciting possibilities for enhancing gaming experiences.
 
-## 4. CONCLUSION
+### 4. CONCLUSION
 
 In conclusion, the project not only successfully combined computer vision, robotics, and game logic to
 create an interactive Tic Tac Toe game but also unveiled the complexities inherent in such interdisciplinary
@@ -135,7 +135,7 @@ experiences, marking the commitment to pushing the boundaries of innovation in h
 interaction. improvements could include refining the object detection algorithms and exploring additional
 game features.
 
-## ACKNOWLEDGEMENTS
+### ACKNOWLEDGEMENTS
 
 Sincere thanks to Prof Sangram Redkar for the course, and the graders Rohith, Ranga and Tatwik for their
 constant support throughout the lab sessions.
