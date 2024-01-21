@@ -149,11 +149,10 @@ game features.
 Sincere thanks to Prof Sangram Redkar for the course, and the graders Rohith, Ranga and Tatwik for their
 constant support throughout the lab sessions.
 
-```
 Serial Number : ERMC
-```
-```
+
+
 [*Link to Video*](https://drive.google.com/file/d/1t5V74P64YTqe8074Z4o_wIe-JPugZOgE/view?usp=sharing)
 
-```
+
 
